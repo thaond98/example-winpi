@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/example-winpi/static/css/main.ae42ac5f.css",
+    "main.js": "/example-winpi/static/js/main.afba8918.js",
+    "index.html": "/example-winpi/index.html",
+    "main.ae42ac5f.css.map": "/example-winpi/static/css/main.ae42ac5f.css.map",
+    "main.afba8918.js.map": "/example-winpi/static/js/main.afba8918.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.afba8918.js"
+  ]
+}
